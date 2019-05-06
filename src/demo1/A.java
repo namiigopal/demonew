@@ -12,6 +12,9 @@ public class A
 		   driver.get("https://www.google.com");
 		   driver.manage().window().maximize();
 		
+		   
+		   
+		   System.out.println("namratatatat");
 	}
 
 }
